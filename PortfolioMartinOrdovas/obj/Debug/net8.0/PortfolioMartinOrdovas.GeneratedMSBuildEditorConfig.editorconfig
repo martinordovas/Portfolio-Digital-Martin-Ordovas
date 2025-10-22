@@ -1,55 +1,51 @@
 is_global = true
+build_property.EnableAotAnalyzer = 
+build_property.EnableSingleFileAnalyzer = 
+build_property.EnableTrimAnalyzer = false
+build_property.IncludeAllContentForSelfExtract = 
 build_property.TargetFramework = net8.0
 build_property.TargetPlatformMinVersion = 
-build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = 
 build_property.ProjectTypeGuids = 
-build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = false
 build_property.PlatformNeutralAssembly = 
 build_property.EnforceExtendedAnalyzerRules = 
-build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = browser
 build_property.RootNamespace = PortfolioMartinOrdovas
 build_property.RootNamespace = PortfolioMartinOrdovas
 build_property.ProjectDir = /home/mogmojito/Documentos/Repositorios personales/Portfolio-DIgital-Martin-Ordovas/PortfolioMartinOrdovas/
 build_property.EnableComHosting = 
-build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.EnableGeneratedComInterfaceComImportInterop = false
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
 build_property.MSBuildProjectDirectory = /home/mogmojito/Documentos/Repositorios personales/Portfolio-DIgital-Martin-Ordovas/PortfolioMartinOrdovas
 build_property._RazorSourceGeneratorDebug = 
 
-[/home/mogmojito/Documentos/Repositorios personales/Portfolio-DIgital-Martin-Ordovas/PortfolioMartinOrdovas/Components/App.razor]
-build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9BcHAucmF6b3I=
+[/home/mogmojito/Documentos/Repositorios personales/Portfolio-DIgital-Martin-Ordovas/PortfolioMartinOrdovas/App.razor]
+build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/mogmojito/Documentos/Repositorios personales/Portfolio-DIgital-Martin-Ordovas/PortfolioMartinOrdovas/Components/Pages/Counter.razor]
-build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9Db3VudGVyLnJhem9y
+[/home/mogmojito/Documentos/Repositorios personales/Portfolio-DIgital-Martin-Ordovas/PortfolioMartinOrdovas/Pages/Counter.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ291bnRlci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/mogmojito/Documentos/Repositorios personales/Portfolio-DIgital-Martin-Ordovas/PortfolioMartinOrdovas/Components/Pages/Error.razor]
-build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9FcnJvci5yYXpvcg==
+[/home/mogmojito/Documentos/Repositorios personales/Portfolio-DIgital-Martin-Ordovas/PortfolioMartinOrdovas/Pages/Home.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSG9tZS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/mogmojito/Documentos/Repositorios personales/Portfolio-DIgital-Martin-Ordovas/PortfolioMartinOrdovas/Components/Pages/Home.razor]
-build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9Ib21lLnJhem9y
+[/home/mogmojito/Documentos/Repositorios personales/Portfolio-DIgital-Martin-Ordovas/PortfolioMartinOrdovas/Pages/Weather.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvV2VhdGhlci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/mogmojito/Documentos/Repositorios personales/Portfolio-DIgital-Martin-Ordovas/PortfolioMartinOrdovas/Components/Pages/Weather.razor]
-build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9XZWF0aGVyLnJhem9y
+[/home/mogmojito/Documentos/Repositorios personales/Portfolio-DIgital-Martin-Ordovas/PortfolioMartinOrdovas/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/mogmojito/Documentos/Repositorios personales/Portfolio-DIgital-Martin-Ordovas/PortfolioMartinOrdovas/Components/Routes.razor]
-build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9Sb3V0ZXMucmF6b3I=
-build_metadata.AdditionalFiles.CssScope = 
+[/home/mogmojito/Documentos/Repositorios personales/Portfolio-DIgital-Martin-Ordovas/PortfolioMartinOrdovas/Layout/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = TGF5b3V0L01haW5MYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-cdtb6mf9ej
 
-[/home/mogmojito/Documentos/Repositorios personales/Portfolio-DIgital-Martin-Ordovas/PortfolioMartinOrdovas/Components/_Imports.razor]
-build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9fSW1wb3J0cy5yYXpvcg==
-build_metadata.AdditionalFiles.CssScope = 
-
-[/home/mogmojito/Documentos/Repositorios personales/Portfolio-DIgital-Martin-Ordovas/PortfolioMartinOrdovas/Components/Layout/MainLayout.razor]
-build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9MYXlvdXQvTWFpbkxheW91dC5yYXpvcg==
-build_metadata.AdditionalFiles.CssScope = b-dvj9e70nr6
-
-[/home/mogmojito/Documentos/Repositorios personales/Portfolio-DIgital-Martin-Ordovas/PortfolioMartinOrdovas/Components/Layout/NavMenu.razor]
-build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9MYXlvdXQvTmF2TWVudS5yYXpvcg==
-build_metadata.AdditionalFiles.CssScope = b-9h5mx8tfim
+[/home/mogmojito/Documentos/Repositorios personales/Portfolio-DIgital-Martin-Ordovas/PortfolioMartinOrdovas/Layout/NavMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = TGF5b3V0L05hdk1lbnUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-4obzw4uf74
