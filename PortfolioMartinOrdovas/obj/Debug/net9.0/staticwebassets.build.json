@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "BFaDaXYFcjPV9fZzng8iC9AgqHD0mmcXPFHc2OLFiF0=",
+  "Hash": "i6HGJSdz9xjn01T0DwMj0lyqm0PtNBvX4rCggrTfYhc=",
   "Source": "PortfolioMartinOrdovas",
   "BasePath": "/",
   "Mode": "Root",
@@ -31,8 +31,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "manifest",
-      "Fingerprint": "1y5mitxi08",
-      "Integrity": "mT0DAXhGYRlf4TCjwyKPldIgDXoHyYBSgde0lpLlBFA=",
+      "Fingerprint": "osbq5opt1m",
+      "Integrity": "yOxeJbE/czfyvD7cmewbWd4Tb+sgokIA9Gn8loPRJ6A=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "obj/Debug/net9.0/blazor.boot.json"
@@ -871,8 +871,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "symbol",
-      "Fingerprint": "exyz4e656b",
-      "Integrity": "krdYXFRAwuF7adETvATkglBVAUeifwXRR1CNhUxhsZ8=",
+      "Fingerprint": "65afdxorik",
+      "Integrity": "5o38fcdxPDipQ6al0GD20PP/C0X2g8n7+BPzU6CXiCk=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "obj/Debug/net9.0/PortfolioMartinOrdovas.pdb"
@@ -892,8 +892,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "runtime",
-      "Fingerprint": "yzpwea95y2",
-      "Integrity": "nlFxTmVxLYsxIMhXzhhnp/R6UxHwuJ3egU/DdRb9XVU=",
+      "Fingerprint": "w2zv3cx3tf",
+      "Integrity": "WCZY1BcnN9tf0K+9hJXCdl2Fo2Ho6f/sZFCdf02BVDw=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "/home/mogmojito/Documentos/Repositorios personales/Portfolio-DIgital-Martin-Ordovas/PortfolioMartinOrdovas/obj/Debug/net9.0/webcil/PortfolioMartinOrdovas.wasm"
@@ -4490,12 +4490,12 @@
       "OriginalItemSpec": "/home/mogmojito/Documentos/Repositorios personales/Portfolio-DIgital-Martin-Ordovas/PortfolioMartinOrdovas/bin/Debug/net9.0/wwwroot/_framework/System.IO.Pipes.AccessControl.wasm"
     },
     {
-      "Identity": "/home/mogmojito/Documentos/Repositorios personales/Portfolio-DIgital-Martin-Ordovas/PortfolioMartinOrdovas/obj/Debug/net9.0/compressed/0i0miypcdy-yzpwea95y2.gz",
+      "Identity": "/home/mogmojito/Documentos/Repositorios personales/Portfolio-DIgital-Martin-Ordovas/PortfolioMartinOrdovas/obj/Debug/net9.0/compressed/0i0miypcdy-w2zv3cx3tf.gz",
       "SourceId": "PortfolioMartinOrdovas",
       "SourceType": "Computed",
       "ContentRoot": "/home/mogmojito/Documentos/Repositorios personales/Portfolio-DIgital-Martin-Ordovas/PortfolioMartinOrdovas/obj/Debug/net9.0/compressed/",
       "BasePath": "/",
-      "RelativePath": "_framework/PortfolioMartinOrdovas#[.{fingerprint=yzpwea95y2}]!.wasm.gz",
+      "RelativePath": "_framework/PortfolioMartinOrdovas#[.{fingerprint=w2zv3cx3tf}]!.wasm.gz",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -4504,8 +4504,8 @@
       "RelatedAsset": "/home/mogmojito/Documentos/Repositorios personales/Portfolio-DIgital-Martin-Ordovas/PortfolioMartinOrdovas/bin/Debug/net9.0/wwwroot/_framework/PortfolioMartinOrdovas.wasm",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "87kbh834jc",
-      "Integrity": "/MMl7Yr1uE3UKf9BfKkyBqPMYVz7tHsH4wTfb7RwIqM=",
+      "Fingerprint": "enoaqpiuis",
+      "Integrity": "Spnorfmlpg42/xzXjxCS/rImqrYx/V/PGNgFFeOLfjs=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "/home/mogmojito/Documentos/Repositorios personales/Portfolio-DIgital-Martin-Ordovas/PortfolioMartinOrdovas/bin/Debug/net9.0/wwwroot/_framework/PortfolioMartinOrdovas.wasm"
@@ -5897,12 +5897,12 @@
       "OriginalItemSpec": "/home/mogmojito/Documentos/Repositorios personales/Portfolio-DIgital-Martin-Ordovas/PortfolioMartinOrdovas/bin/Debug/net9.0/wwwroot/_framework/System.Security.Cryptography.Primitives.wasm"
     },
     {
-      "Identity": "/home/mogmojito/Documentos/Repositorios personales/Portfolio-DIgital-Martin-Ordovas/PortfolioMartinOrdovas/obj/Debug/net9.0/compressed/chnzbll8wi-tdaek54dwe.gz",
+      "Identity": "/home/mogmojito/Documentos/Repositorios personales/Portfolio-DIgital-Martin-Ordovas/PortfolioMartinOrdovas/obj/Debug/net9.0/compressed/chnzbll8wi-qc6a5g4vyz.gz",
       "SourceId": "PortfolioMartinOrdovas",
       "SourceType": "Discovered",
       "ContentRoot": "/home/mogmojito/Documentos/Repositorios personales/Portfolio-DIgital-Martin-Ordovas/PortfolioMartinOrdovas/obj/Debug/net9.0/compressed/",
       "BasePath": "/",
-      "RelativePath": "index#[.{fingerprint=tdaek54dwe}]?.html.gz",
+      "RelativePath": "index#[.{fingerprint=qc6a5g4vyz}]?.html.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -5911,8 +5911,8 @@
       "RelatedAsset": "/home/mogmojito/Documentos/Repositorios personales/Portfolio-DIgital-Martin-Ordovas/PortfolioMartinOrdovas/wwwroot/index.html",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "k21td3c63k",
-      "Integrity": "rAO/QOulPCQ8TDmz7U6F8O9T5fuwcUCf+Q2eWbMqyFI=",
+      "Fingerprint": "zuvexote8g",
+      "Integrity": "ywlc41CJlHJdUgf4qvvyVzuO/j+iJcyT7paVZbAJkE8=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "/home/mogmojito/Documentos/Repositorios personales/Portfolio-DIgital-Martin-Ordovas/PortfolioMartinOrdovas/wwwroot/index.html"
@@ -7052,7 +7052,7 @@
       "OriginalItemSpec": "/home/mogmojito/Documentos/Repositorios personales/Portfolio-DIgital-Martin-Ordovas/PortfolioMartinOrdovas/bin/Debug/net9.0/wwwroot/_framework/System.Linq.wasm"
     },
     {
-      "Identity": "/home/mogmojito/Documentos/Repositorios personales/Portfolio-DIgital-Martin-Ordovas/PortfolioMartinOrdovas/obj/Debug/net9.0/compressed/kb8uc8lrao-1y5mitxi08.gz",
+      "Identity": "/home/mogmojito/Documentos/Repositorios personales/Portfolio-DIgital-Martin-Ordovas/PortfolioMartinOrdovas/obj/Debug/net9.0/compressed/kb8uc8lrao-osbq5opt1m.gz",
       "SourceId": "PortfolioMartinOrdovas",
       "SourceType": "Computed",
       "ContentRoot": "/home/mogmojito/Documentos/Repositorios personales/Portfolio-DIgital-Martin-Ordovas/PortfolioMartinOrdovas/obj/Debug/net9.0/compressed/",
@@ -7066,8 +7066,8 @@
       "RelatedAsset": "/home/mogmojito/Documentos/Repositorios personales/Portfolio-DIgital-Martin-Ordovas/PortfolioMartinOrdovas/bin/Debug/net9.0/wwwroot/_framework/blazor.boot.json",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "iifk3ong0g",
-      "Integrity": "ij45rbL+F+Zet914PGqXj3MStMQEugDamb37b8p+u0Y=",
+      "Fingerprint": "vif4ojoe0o",
+      "Integrity": "l2tlCNrH52MMeYjxENWE6yob4omZ+18L10lPki4tp1o=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "/home/mogmojito/Documentos/Repositorios personales/Portfolio-DIgital-Martin-Ordovas/PortfolioMartinOrdovas/bin/Debug/net9.0/wwwroot/_framework/blazor.boot.json"
@@ -9257,12 +9257,12 @@
       "OriginalItemSpec": "/home/mogmojito/Documentos/Repositorios personales/Portfolio-DIgital-Martin-Ordovas/PortfolioMartinOrdovas/bin/Debug/net9.0/wwwroot/_framework/System.Reflection.Primitives.wasm"
     },
     {
-      "Identity": "/home/mogmojito/Documentos/Repositorios personales/Portfolio-DIgital-Martin-Ordovas/PortfolioMartinOrdovas/obj/Debug/net9.0/compressed/ymf4elpt5u-exyz4e656b.gz",
+      "Identity": "/home/mogmojito/Documentos/Repositorios personales/Portfolio-DIgital-Martin-Ordovas/PortfolioMartinOrdovas/obj/Debug/net9.0/compressed/ymf4elpt5u-65afdxorik.gz",
       "SourceId": "PortfolioMartinOrdovas",
       "SourceType": "Computed",
       "ContentRoot": "/home/mogmojito/Documentos/Repositorios personales/Portfolio-DIgital-Martin-Ordovas/PortfolioMartinOrdovas/obj/Debug/net9.0/compressed/",
       "BasePath": "/",
-      "RelativePath": "_framework/PortfolioMartinOrdovas#[.{fingerprint=exyz4e656b}]!.pdb.gz",
+      "RelativePath": "_framework/PortfolioMartinOrdovas#[.{fingerprint=65afdxorik}]!.pdb.gz",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -9271,8 +9271,8 @@
       "RelatedAsset": "/home/mogmojito/Documentos/Repositorios personales/Portfolio-DIgital-Martin-Ordovas/PortfolioMartinOrdovas/bin/Debug/net9.0/wwwroot/_framework/PortfolioMartinOrdovas.pdb",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "d82ho804rl",
-      "Integrity": "c6J/vYknX/6pDAOBdp1rEJFV9bTWCNYAaU6EuPZd11k=",
+      "Fingerprint": "heuxnzenrn",
+      "Integrity": "KZu7RmS0/lsWtZYLugm8E4ps/wMCvstrC1PLgTef5Q8=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "/home/mogmojito/Documentos/Repositorios personales/Portfolio-DIgital-Martin-Ordovas/PortfolioMartinOrdovas/bin/Debug/net9.0/wwwroot/_framework/PortfolioMartinOrdovas.pdb"
@@ -9649,8 +9649,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "tdaek54dwe",
-      "Integrity": "74tyXYlnplbCLyL8zTmDqBkGItxdkE/7MXer5Vc/W7A=",
+      "Fingerprint": "qc6a5g4vyz",
+      "Integrity": "qqNlFFGl661GcKwB20C0ZPFGWhAQamFeLQ0mfqjzpg4=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/index.html"
@@ -10621,7 +10621,46 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"mT0DAXhGYRlf4TCjwyKPldIgDXoHyYBSgde0lpLlBFA=\""
+          "Value": "\"yOxeJbE/czfyvD7cmewbWd4Tb+sgokIA9Gn8loPRJ6A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 23 Oct 2025 19:09:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-yOxeJbE/czfyvD7cmewbWd4Tb+sgokIA9Gn8loPRJ6A="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/blazor.boot.json",
+      "AssetFile": "/home/mogmojito/Documentos/Repositorios personales/Portfolio-DIgital-Martin-Ordovas/PortfolioMartinOrdovas/obj/Debug/net9.0/compressed/kb8uc8lrao-osbq5opt1m.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000081320647"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "12296"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"l2tlCNrH52MMeYjxENWE6yob4omZ+18L10lPki4tp1o=\""
         },
         {
           "Name": "Last-Modified",
@@ -10630,45 +10669,6 @@
         {
           "Name": "Cache-Control",
           "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-mT0DAXhGYRlf4TCjwyKPldIgDXoHyYBSgde0lpLlBFA="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/blazor.boot.json",
-      "AssetFile": "/home/mogmojito/Documentos/Repositorios personales/Portfolio-DIgital-Martin-Ordovas/PortfolioMartinOrdovas/obj/Debug/net9.0/compressed/kb8uc8lrao-1y5mitxi08.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000081294204"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "12300"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"ij45rbL+F+Zet914PGqXj3MStMQEugDamb37b8p+u0Y=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 23 Oct 2025 17:48:38 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
         },
         {
           "Name": "Content-Encoding",
@@ -10684,19 +10684,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"mT0DAXhGYRlf4TCjwyKPldIgDXoHyYBSgde0lpLlBFA=\""
+          "Value": "W/\"yOxeJbE/czfyvD7cmewbWd4Tb+sgokIA9Gn8loPRJ6A=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-mT0DAXhGYRlf4TCjwyKPldIgDXoHyYBSgde0lpLlBFA="
+          "Value": "sha256-yOxeJbE/czfyvD7cmewbWd4Tb+sgokIA9Gn8loPRJ6A="
         }
       ]
     },
     {
       "Route": "_framework/blazor.boot.json.gz",
-      "AssetFile": "/home/mogmojito/Documentos/Repositorios personales/Portfolio-DIgital-Martin-Ordovas/PortfolioMartinOrdovas/obj/Debug/net9.0/compressed/kb8uc8lrao-1y5mitxi08.gz",
+      "AssetFile": "/home/mogmojito/Documentos/Repositorios personales/Portfolio-DIgital-Martin-Ordovas/PortfolioMartinOrdovas/obj/Debug/net9.0/compressed/kb8uc8lrao-osbq5opt1m.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10705,7 +10705,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "12300"
+          "Value": "12296"
         },
         {
           "Name": "Content-Type",
@@ -10713,11 +10713,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"ij45rbL+F+Zet914PGqXj3MStMQEugDamb37b8p+u0Y=\""
+          "Value": "\"l2tlCNrH52MMeYjxENWE6yob4omZ+18L10lPki4tp1o=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 23 Oct 2025 17:48:38 GMT"
+          "Value": "Thu, 23 Oct 2025 17:49:05 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10735,7 +10735,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-ij45rbL+F+Zet914PGqXj3MStMQEugDamb37b8p+u0Y="
+          "Value": "sha256-l2tlCNrH52MMeYjxENWE6yob4omZ+18L10lPki4tp1o="
         }
       ]
     },
@@ -22201,7 +22201,7 @@
       ]
     },
     {
-      "Route": "_framework/PortfolioMartinOrdovas.exyz4e656b.pdb",
+      "Route": "_framework/PortfolioMartinOrdovas.65afdxorik.pdb",
       "AssetFile": "/home/mogmojito/Documentos/Repositorios personales/Portfolio-DIgital-Martin-Ordovas/PortfolioMartinOrdovas/bin/Debug/net9.0/wwwroot/_framework/PortfolioMartinOrdovas.pdb",
       "Selectors": [],
       "ResponseHeaders": [
@@ -22219,11 +22219,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"krdYXFRAwuF7adETvATkglBVAUeifwXRR1CNhUxhsZ8=\""
+          "Value": "\"5o38fcdxPDipQ6al0GD20PP/C0X2g8n7+BPzU6CXiCk=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 23 Oct 2025 17:42:55 GMT"
+          "Value": "Thu, 23 Oct 2025 19:09:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -22233,7 +22233,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "exyz4e656b"
+          "Value": "65afdxorik"
         },
         {
           "Name": "label",
@@ -22241,13 +22241,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-krdYXFRAwuF7adETvATkglBVAUeifwXRR1CNhUxhsZ8="
+          "Value": "sha256-5o38fcdxPDipQ6al0GD20PP/C0X2g8n7+BPzU6CXiCk="
         }
       ]
     },
     {
-      "Route": "_framework/PortfolioMartinOrdovas.exyz4e656b.pdb",
-      "AssetFile": "/home/mogmojito/Documentos/Repositorios personales/Portfolio-DIgital-Martin-Ordovas/PortfolioMartinOrdovas/obj/Debug/net9.0/compressed/ymf4elpt5u-exyz4e656b.gz",
+      "Route": "_framework/PortfolioMartinOrdovas.65afdxorik.pdb",
+      "AssetFile": "/home/mogmojito/Documentos/Repositorios personales/Portfolio-DIgital-Martin-Ordovas/PortfolioMartinOrdovas/obj/Debug/net9.0/compressed/ymf4elpt5u-65afdxorik.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -22266,11 +22266,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"c6J/vYknX/6pDAOBdp1rEJFV9bTWCNYAaU6EuPZd11k=\""
+          "Value": "\"KZu7RmS0/lsWtZYLugm8E4ps/wMCvstrC1PLgTef5Q8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 23 Oct 2025 17:42:55 GMT"
+          "Value": "Thu, 23 Oct 2025 19:09:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -22290,13 +22290,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"krdYXFRAwuF7adETvATkglBVAUeifwXRR1CNhUxhsZ8=\""
+          "Value": "W/\"5o38fcdxPDipQ6al0GD20PP/C0X2g8n7+BPzU6CXiCk=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "exyz4e656b"
+          "Value": "65afdxorik"
         },
         {
           "Name": "label",
@@ -22304,13 +22304,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-krdYXFRAwuF7adETvATkglBVAUeifwXRR1CNhUxhsZ8="
+          "Value": "sha256-5o38fcdxPDipQ6al0GD20PP/C0X2g8n7+BPzU6CXiCk="
         }
       ]
     },
     {
-      "Route": "_framework/PortfolioMartinOrdovas.exyz4e656b.pdb.gz",
-      "AssetFile": "/home/mogmojito/Documentos/Repositorios personales/Portfolio-DIgital-Martin-Ordovas/PortfolioMartinOrdovas/obj/Debug/net9.0/compressed/ymf4elpt5u-exyz4e656b.gz",
+      "Route": "_framework/PortfolioMartinOrdovas.65afdxorik.pdb.gz",
+      "AssetFile": "/home/mogmojito/Documentos/Repositorios personales/Portfolio-DIgital-Martin-Ordovas/PortfolioMartinOrdovas/obj/Debug/net9.0/compressed/ymf4elpt5u-65afdxorik.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -22327,11 +22327,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"c6J/vYknX/6pDAOBdp1rEJFV9bTWCNYAaU6EuPZd11k=\""
+          "Value": "\"KZu7RmS0/lsWtZYLugm8E4ps/wMCvstrC1PLgTef5Q8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 23 Oct 2025 17:42:55 GMT"
+          "Value": "Thu, 23 Oct 2025 19:09:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -22349,7 +22349,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "exyz4e656b"
+          "Value": "65afdxorik"
         },
         {
           "Name": "label",
@@ -22357,7 +22357,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-c6J/vYknX/6pDAOBdp1rEJFV9bTWCNYAaU6EuPZd11k="
+          "Value": "sha256-KZu7RmS0/lsWtZYLugm8E4ps/wMCvstrC1PLgTef5Q8="
         }
       ]
     },
@@ -22380,11 +22380,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"krdYXFRAwuF7adETvATkglBVAUeifwXRR1CNhUxhsZ8=\""
+          "Value": "\"5o38fcdxPDipQ6al0GD20PP/C0X2g8n7+BPzU6CXiCk=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 23 Oct 2025 17:42:55 GMT"
+          "Value": "Thu, 23 Oct 2025 19:09:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -22394,13 +22394,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-krdYXFRAwuF7adETvATkglBVAUeifwXRR1CNhUxhsZ8="
+          "Value": "sha256-5o38fcdxPDipQ6al0GD20PP/C0X2g8n7+BPzU6CXiCk="
         }
       ]
     },
     {
       "Route": "_framework/PortfolioMartinOrdovas.pdb",
-      "AssetFile": "/home/mogmojito/Documentos/Repositorios personales/Portfolio-DIgital-Martin-Ordovas/PortfolioMartinOrdovas/obj/Debug/net9.0/compressed/ymf4elpt5u-exyz4e656b.gz",
+      "AssetFile": "/home/mogmojito/Documentos/Repositorios personales/Portfolio-DIgital-Martin-Ordovas/PortfolioMartinOrdovas/obj/Debug/net9.0/compressed/ymf4elpt5u-65afdxorik.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -22419,11 +22419,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"c6J/vYknX/6pDAOBdp1rEJFV9bTWCNYAaU6EuPZd11k=\""
+          "Value": "\"KZu7RmS0/lsWtZYLugm8E4ps/wMCvstrC1PLgTef5Q8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 23 Oct 2025 17:42:55 GMT"
+          "Value": "Thu, 23 Oct 2025 19:09:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -22443,19 +22443,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"krdYXFRAwuF7adETvATkglBVAUeifwXRR1CNhUxhsZ8=\""
+          "Value": "W/\"5o38fcdxPDipQ6al0GD20PP/C0X2g8n7+BPzU6CXiCk=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-krdYXFRAwuF7adETvATkglBVAUeifwXRR1CNhUxhsZ8="
+          "Value": "sha256-5o38fcdxPDipQ6al0GD20PP/C0X2g8n7+BPzU6CXiCk="
         }
       ]
     },
     {
       "Route": "_framework/PortfolioMartinOrdovas.pdb.gz",
-      "AssetFile": "/home/mogmojito/Documentos/Repositorios personales/Portfolio-DIgital-Martin-Ordovas/PortfolioMartinOrdovas/obj/Debug/net9.0/compressed/ymf4elpt5u-exyz4e656b.gz",
+      "AssetFile": "/home/mogmojito/Documentos/Repositorios personales/Portfolio-DIgital-Martin-Ordovas/PortfolioMartinOrdovas/obj/Debug/net9.0/compressed/ymf4elpt5u-65afdxorik.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -22472,11 +22472,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"c6J/vYknX/6pDAOBdp1rEJFV9bTWCNYAaU6EuPZd11k=\""
+          "Value": "\"KZu7RmS0/lsWtZYLugm8E4ps/wMCvstrC1PLgTef5Q8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 23 Oct 2025 17:42:55 GMT"
+          "Value": "Thu, 23 Oct 2025 19:09:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -22494,12 +22494,12 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-c6J/vYknX/6pDAOBdp1rEJFV9bTWCNYAaU6EuPZd11k="
+          "Value": "sha256-KZu7RmS0/lsWtZYLugm8E4ps/wMCvstrC1PLgTef5Q8="
         }
       ]
     },
     {
-      "Route": "_framework/PortfolioMartinOrdovas.wasm",
+      "Route": "_framework/PortfolioMartinOrdovas.w2zv3cx3tf.wasm",
       "AssetFile": "/home/mogmojito/Documentos/Repositorios personales/Portfolio-DIgital-Martin-Ordovas/PortfolioMartinOrdovas/bin/Debug/net9.0/wwwroot/_framework/PortfolioMartinOrdovas.wasm",
       "Selectors": [],
       "ResponseHeaders": [
@@ -22517,148 +22517,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"nlFxTmVxLYsxIMhXzhhnp/R6UxHwuJ3egU/DdRb9XVU=\""
+          "Value": "\"WCZY1BcnN9tf0K+9hJXCdl2Fo2Ho6f/sZFCdf02BVDw=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 23 Oct 2025 17:42:55 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-nlFxTmVxLYsxIMhXzhhnp/R6UxHwuJ3egU/DdRb9XVU="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/PortfolioMartinOrdovas.wasm",
-      "AssetFile": "/home/mogmojito/Documentos/Repositorios personales/Portfolio-DIgital-Martin-Ordovas/PortfolioMartinOrdovas/obj/Debug/net9.0/compressed/0i0miypcdy-yzpwea95y2.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000213857998"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "4675"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"/MMl7Yr1uE3UKf9BfKkyBqPMYVz7tHsH4wTfb7RwIqM=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 23 Oct 2025 17:42:55 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/wasm"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"nlFxTmVxLYsxIMhXzhhnp/R6UxHwuJ3egU/DdRb9XVU=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-nlFxTmVxLYsxIMhXzhhnp/R6UxHwuJ3egU/DdRb9XVU="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/PortfolioMartinOrdovas.wasm.gz",
-      "AssetFile": "/home/mogmojito/Documentos/Repositorios personales/Portfolio-DIgital-Martin-Ordovas/PortfolioMartinOrdovas/obj/Debug/net9.0/compressed/0i0miypcdy-yzpwea95y2.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "4675"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/wasm"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"/MMl7Yr1uE3UKf9BfKkyBqPMYVz7tHsH4wTfb7RwIqM=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 23 Oct 2025 17:42:55 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-/MMl7Yr1uE3UKf9BfKkyBqPMYVz7tHsH4wTfb7RwIqM="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/PortfolioMartinOrdovas.yzpwea95y2.wasm",
-      "AssetFile": "/home/mogmojito/Documentos/Repositorios personales/Portfolio-DIgital-Martin-Ordovas/PortfolioMartinOrdovas/bin/Debug/net9.0/wwwroot/_framework/PortfolioMartinOrdovas.wasm",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "10517"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/wasm"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"nlFxTmVxLYsxIMhXzhhnp/R6UxHwuJ3egU/DdRb9XVU=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 23 Oct 2025 17:42:55 GMT"
+          "Value": "Thu, 23 Oct 2025 19:09:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -22668,7 +22531,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "yzpwea95y2"
+          "Value": "w2zv3cx3tf"
         },
         {
           "Name": "label",
@@ -22676,18 +22539,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-nlFxTmVxLYsxIMhXzhhnp/R6UxHwuJ3egU/DdRb9XVU="
+          "Value": "sha256-WCZY1BcnN9tf0K+9hJXCdl2Fo2Ho6f/sZFCdf02BVDw="
         }
       ]
     },
     {
-      "Route": "_framework/PortfolioMartinOrdovas.yzpwea95y2.wasm",
-      "AssetFile": "/home/mogmojito/Documentos/Repositorios personales/Portfolio-DIgital-Martin-Ordovas/PortfolioMartinOrdovas/obj/Debug/net9.0/compressed/0i0miypcdy-yzpwea95y2.gz",
+      "Route": "_framework/PortfolioMartinOrdovas.w2zv3cx3tf.wasm",
+      "AssetFile": "/home/mogmojito/Documentos/Repositorios personales/Portfolio-DIgital-Martin-Ordovas/PortfolioMartinOrdovas/obj/Debug/net9.0/compressed/0i0miypcdy-w2zv3cx3tf.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000213857998"
+          "Quality": "0.000214086919"
         }
       ],
       "ResponseHeaders": [
@@ -22697,15 +22560,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "4675"
+          "Value": "4670"
         },
         {
           "Name": "ETag",
-          "Value": "\"/MMl7Yr1uE3UKf9BfKkyBqPMYVz7tHsH4wTfb7RwIqM=\""
+          "Value": "\"Spnorfmlpg42/xzXjxCS/rImqrYx/V/PGNgFFeOLfjs=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 23 Oct 2025 17:42:55 GMT"
+          "Value": "Thu, 23 Oct 2025 19:09:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -22725,13 +22588,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"nlFxTmVxLYsxIMhXzhhnp/R6UxHwuJ3egU/DdRb9XVU=\""
+          "Value": "W/\"WCZY1BcnN9tf0K+9hJXCdl2Fo2Ho6f/sZFCdf02BVDw=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "yzpwea95y2"
+          "Value": "w2zv3cx3tf"
         },
         {
           "Name": "label",
@@ -22739,13 +22602,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-nlFxTmVxLYsxIMhXzhhnp/R6UxHwuJ3egU/DdRb9XVU="
+          "Value": "sha256-WCZY1BcnN9tf0K+9hJXCdl2Fo2Ho6f/sZFCdf02BVDw="
         }
       ]
     },
     {
-      "Route": "_framework/PortfolioMartinOrdovas.yzpwea95y2.wasm.gz",
-      "AssetFile": "/home/mogmojito/Documentos/Repositorios personales/Portfolio-DIgital-Martin-Ordovas/PortfolioMartinOrdovas/obj/Debug/net9.0/compressed/0i0miypcdy-yzpwea95y2.gz",
+      "Route": "_framework/PortfolioMartinOrdovas.w2zv3cx3tf.wasm.gz",
+      "AssetFile": "/home/mogmojito/Documentos/Repositorios personales/Portfolio-DIgital-Martin-Ordovas/PortfolioMartinOrdovas/obj/Debug/net9.0/compressed/0i0miypcdy-w2zv3cx3tf.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -22754,7 +22617,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "4675"
+          "Value": "4670"
         },
         {
           "Name": "Content-Type",
@@ -22762,11 +22625,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"/MMl7Yr1uE3UKf9BfKkyBqPMYVz7tHsH4wTfb7RwIqM=\""
+          "Value": "\"Spnorfmlpg42/xzXjxCS/rImqrYx/V/PGNgFFeOLfjs=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 23 Oct 2025 17:42:55 GMT"
+          "Value": "Thu, 23 Oct 2025 19:09:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -22784,7 +22647,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "yzpwea95y2"
+          "Value": "w2zv3cx3tf"
         },
         {
           "Name": "label",
@@ -22792,7 +22655,144 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-/MMl7Yr1uE3UKf9BfKkyBqPMYVz7tHsH4wTfb7RwIqM="
+          "Value": "sha256-Spnorfmlpg42/xzXjxCS/rImqrYx/V/PGNgFFeOLfjs="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/PortfolioMartinOrdovas.wasm",
+      "AssetFile": "/home/mogmojito/Documentos/Repositorios personales/Portfolio-DIgital-Martin-Ordovas/PortfolioMartinOrdovas/bin/Debug/net9.0/wwwroot/_framework/PortfolioMartinOrdovas.wasm",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "10517"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/wasm"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"WCZY1BcnN9tf0K+9hJXCdl2Fo2Ho6f/sZFCdf02BVDw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 23 Oct 2025 19:09:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-WCZY1BcnN9tf0K+9hJXCdl2Fo2Ho6f/sZFCdf02BVDw="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/PortfolioMartinOrdovas.wasm",
+      "AssetFile": "/home/mogmojito/Documentos/Repositorios personales/Portfolio-DIgital-Martin-Ordovas/PortfolioMartinOrdovas/obj/Debug/net9.0/compressed/0i0miypcdy-w2zv3cx3tf.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000214086919"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4670"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Spnorfmlpg42/xzXjxCS/rImqrYx/V/PGNgFFeOLfjs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 23 Oct 2025 19:09:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/wasm"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"WCZY1BcnN9tf0K+9hJXCdl2Fo2Ho6f/sZFCdf02BVDw=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-WCZY1BcnN9tf0K+9hJXCdl2Fo2Ho6f/sZFCdf02BVDw="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/PortfolioMartinOrdovas.wasm.gz",
+      "AssetFile": "/home/mogmojito/Documentos/Repositorios personales/Portfolio-DIgital-Martin-Ordovas/PortfolioMartinOrdovas/obj/Debug/net9.0/compressed/0i0miypcdy-w2zv3cx3tf.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4670"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/wasm"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Spnorfmlpg42/xzXjxCS/rImqrYx/V/PGNgFFeOLfjs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 23 Oct 2025 19:09:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Spnorfmlpg42/xzXjxCS/rImqrYx/V/PGNgFFeOLfjs="
         }
       ]
     },
@@ -71536,12 +71536,12 @@
     },
     {
       "Route": "index.html",
-      "AssetFile": "/home/mogmojito/Documentos/Repositorios personales/Portfolio-DIgital-Martin-Ordovas/PortfolioMartinOrdovas/obj/Debug/net9.0/compressed/chnzbll8wi-tdaek54dwe.gz",
+      "AssetFile": "/home/mogmojito/Documentos/Repositorios personales/Portfolio-DIgital-Martin-Ordovas/PortfolioMartinOrdovas/obj/Debug/net9.0/compressed/chnzbll8wi-qc6a5g4vyz.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.002237136465"
+          "Quality": "0.002109704641"
         }
       ],
       "ResponseHeaders": [
@@ -71551,15 +71551,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "446"
+          "Value": "473"
         },
         {
           "Name": "ETag",
-          "Value": "\"rAO/QOulPCQ8TDmz7U6F8O9T5fuwcUCf+Q2eWbMqyFI=\""
+          "Value": "\"ywlc41CJlHJdUgf4qvvyVzuO/j+iJcyT7paVZbAJkE8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 23 Oct 2025 17:49:00 GMT"
+          "Value": "Thu, 23 Oct 2025 17:49:40 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -71579,13 +71579,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"74tyXYlnplbCLyL8zTmDqBkGItxdkE/7MXer5Vc/W7A=\""
+          "Value": "W/\"qqNlFFGl661GcKwB20C0ZPFGWhAQamFeLQ0mfqjzpg4=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-74tyXYlnplbCLyL8zTmDqBkGItxdkE/7MXer5Vc/W7A="
+          "Value": "sha256-qqNlFFGl661GcKwB20C0ZPFGWhAQamFeLQ0mfqjzpg4="
         }
       ]
     },
@@ -71600,7 +71600,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "835"
+          "Value": "967"
         },
         {
           "Name": "Content-Type",
@@ -71608,11 +71608,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"74tyXYlnplbCLyL8zTmDqBkGItxdkE/7MXer5Vc/W7A=\""
+          "Value": "\"qqNlFFGl661GcKwB20C0ZPFGWhAQamFeLQ0mfqjzpg4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 23 Oct 2025 17:49:00 GMT"
+          "Value": "Thu, 23 Oct 2025 17:49:40 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -71622,13 +71622,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-74tyXYlnplbCLyL8zTmDqBkGItxdkE/7MXer5Vc/W7A="
+          "Value": "sha256-qqNlFFGl661GcKwB20C0ZPFGWhAQamFeLQ0mfqjzpg4="
         }
       ]
     },
     {
       "Route": "index.html.gz",
-      "AssetFile": "/home/mogmojito/Documentos/Repositorios personales/Portfolio-DIgital-Martin-Ordovas/PortfolioMartinOrdovas/obj/Debug/net9.0/compressed/chnzbll8wi-tdaek54dwe.gz",
+      "AssetFile": "/home/mogmojito/Documentos/Repositorios personales/Portfolio-DIgital-Martin-Ordovas/PortfolioMartinOrdovas/obj/Debug/net9.0/compressed/chnzbll8wi-qc6a5g4vyz.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -71637,7 +71637,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "446"
+          "Value": "473"
         },
         {
           "Name": "Content-Type",
@@ -71645,11 +71645,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"rAO/QOulPCQ8TDmz7U6F8O9T5fuwcUCf+Q2eWbMqyFI=\""
+          "Value": "\"ywlc41CJlHJdUgf4qvvyVzuO/j+iJcyT7paVZbAJkE8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 23 Oct 2025 17:49:00 GMT"
+          "Value": "Thu, 23 Oct 2025 17:49:40 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -71667,18 +71667,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-rAO/QOulPCQ8TDmz7U6F8O9T5fuwcUCf+Q2eWbMqyFI="
+          "Value": "sha256-ywlc41CJlHJdUgf4qvvyVzuO/j+iJcyT7paVZbAJkE8="
         }
       ]
     },
     {
-      "Route": "index.tdaek54dwe.html",
-      "AssetFile": "/home/mogmojito/Documentos/Repositorios personales/Portfolio-DIgital-Martin-Ordovas/PortfolioMartinOrdovas/obj/Debug/net9.0/compressed/chnzbll8wi-tdaek54dwe.gz",
+      "Route": "index.qc6a5g4vyz.html",
+      "AssetFile": "/home/mogmojito/Documentos/Repositorios personales/Portfolio-DIgital-Martin-Ordovas/PortfolioMartinOrdovas/obj/Debug/net9.0/compressed/chnzbll8wi-qc6a5g4vyz.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.002237136465"
+          "Quality": "0.002109704641"
         }
       ],
       "ResponseHeaders": [
@@ -71688,15 +71688,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "446"
+          "Value": "473"
         },
         {
           "Name": "ETag",
-          "Value": "\"rAO/QOulPCQ8TDmz7U6F8O9T5fuwcUCf+Q2eWbMqyFI=\""
+          "Value": "\"ywlc41CJlHJdUgf4qvvyVzuO/j+iJcyT7paVZbAJkE8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 23 Oct 2025 17:49:00 GMT"
+          "Value": "Thu, 23 Oct 2025 17:49:40 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -71716,13 +71716,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"74tyXYlnplbCLyL8zTmDqBkGItxdkE/7MXer5Vc/W7A=\""
+          "Value": "W/\"qqNlFFGl661GcKwB20C0ZPFGWhAQamFeLQ0mfqjzpg4=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "tdaek54dwe"
+          "Value": "qc6a5g4vyz"
         },
         {
           "Name": "label",
@@ -71730,12 +71730,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-74tyXYlnplbCLyL8zTmDqBkGItxdkE/7MXer5Vc/W7A="
+          "Value": "sha256-qqNlFFGl661GcKwB20C0ZPFGWhAQamFeLQ0mfqjzpg4="
         }
       ]
     },
     {
-      "Route": "index.tdaek54dwe.html",
+      "Route": "index.qc6a5g4vyz.html",
       "AssetFile": "/home/mogmojito/Documentos/Repositorios personales/Portfolio-DIgital-Martin-Ordovas/PortfolioMartinOrdovas/wwwroot/index.html",
       "Selectors": [],
       "ResponseHeaders": [
@@ -71745,7 +71745,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "835"
+          "Value": "967"
         },
         {
           "Name": "Content-Type",
@@ -71753,11 +71753,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"74tyXYlnplbCLyL8zTmDqBkGItxdkE/7MXer5Vc/W7A=\""
+          "Value": "\"qqNlFFGl661GcKwB20C0ZPFGWhAQamFeLQ0mfqjzpg4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 23 Oct 2025 17:49:00 GMT"
+          "Value": "Thu, 23 Oct 2025 17:49:40 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -71767,7 +71767,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "tdaek54dwe"
+          "Value": "qc6a5g4vyz"
         },
         {
           "Name": "label",
@@ -71775,13 +71775,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-74tyXYlnplbCLyL8zTmDqBkGItxdkE/7MXer5Vc/W7A="
+          "Value": "sha256-qqNlFFGl661GcKwB20C0ZPFGWhAQamFeLQ0mfqjzpg4="
         }
       ]
     },
     {
-      "Route": "index.tdaek54dwe.html.gz",
-      "AssetFile": "/home/mogmojito/Documentos/Repositorios personales/Portfolio-DIgital-Martin-Ordovas/PortfolioMartinOrdovas/obj/Debug/net9.0/compressed/chnzbll8wi-tdaek54dwe.gz",
+      "Route": "index.qc6a5g4vyz.html.gz",
+      "AssetFile": "/home/mogmojito/Documentos/Repositorios personales/Portfolio-DIgital-Martin-Ordovas/PortfolioMartinOrdovas/obj/Debug/net9.0/compressed/chnzbll8wi-qc6a5g4vyz.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -71790,7 +71790,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "446"
+          "Value": "473"
         },
         {
           "Name": "Content-Type",
@@ -71798,11 +71798,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"rAO/QOulPCQ8TDmz7U6F8O9T5fuwcUCf+Q2eWbMqyFI=\""
+          "Value": "\"ywlc41CJlHJdUgf4qvvyVzuO/j+iJcyT7paVZbAJkE8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 23 Oct 2025 17:49:00 GMT"
+          "Value": "Thu, 23 Oct 2025 17:49:40 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -71820,7 +71820,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "tdaek54dwe"
+          "Value": "qc6a5g4vyz"
         },
         {
           "Name": "label",
@@ -71828,7 +71828,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-rAO/QOulPCQ8TDmz7U6F8O9T5fuwcUCf+Q2eWbMqyFI="
+          "Value": "sha256-ywlc41CJlHJdUgf4qvvyVzuO/j+iJcyT7paVZbAJkE8="
         }
       ]
     },
