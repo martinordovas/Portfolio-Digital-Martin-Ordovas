@@ -3,6 +3,12 @@ html {
     scroll-behavior: smooth;
 }
 
+html, body{
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
 section, .cuerpoPrincipal, .sobreMi {
     scroll-snap-align: start;
     height: 100vh;
@@ -165,30 +171,38 @@ body{
 
 @media (max-width: 991px) {
     html {
-        scroll-snap-type: none; /* Desactivamos el "imán" que bloquea el dedo */
+        scroll-snap-type: none;
     }
 
     section, .cuerpoPrincipal, .sobreMi {
-        height: auto;           /* La altura ya no es fija, crece con el texto */
-        min-height: 100vh;      /* Pero al menos mide una pantalla completa */
+        height: auto;
+        min-height: 100vh;
         scroll-snap-align: none;
-        padding-top: 100px;     /* Espacio para que el Navbar no tape el título */
+        padding-top: 100px;
         padding-bottom: 50px;
     }
 }
 
 @media (max-width: 768px) {
     .cuadroBotones {
-        justify-content: center !important; /* Centrados en móvil */
-        flex-direction: column;            /* Uno debajo de otro */
+        justify-content: center !important;
+        flex-direction: column;
         align-items: center;
         gap: 15px !important;
     }
 
     .cuadroBotones a {
-        width: 100%;            /* Botones anchos para que sean fáciles de pulsar */
+        width: 100%;
         max-width: 280px;
         margin: 0 !important;
+    }
+    .pincelada-info {
+        margin-top: 10px;
+    }
+    
+    .img-perfil {
+        width: 150px; 
+        height: 150px;
     }
 }
 
