@@ -14,13 +14,21 @@ section, .cuerpoPrincipal, .sobreMi {
     height: 100dvh;
 }
 
-body{
-    font-family: 'JetBrains Mono', monospace;
+.fondo{
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100vh; /* Aquí sí usamos vh normal porque es fixed */
     background-image: url(../images/background.jpg);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
-    background-attachment: fixed;
+    z-index: -10; /* Lo mandamos al fondo absoluto */
+}
+
+body{
+    font-family: 'JetBrains Mono', monospace;
     overscroll-behavior-y: none;
 }
 
