@@ -1,8 +1,3 @@
-body, html {
-    overflow-x: hidden;
-    width: 100%;
-}
-
 html {
     scroll-snap-type: y mandatory;
     scroll-behavior: smooth;
@@ -166,30 +161,32 @@ body{
     transform: scale(1.02);
 }
 
-@media (min-width: 992px) {
-    html {
-        scroll-snap-type: y mandatory;
+@media (max-width: 768px) {
+    .cuadroPrincipal {
+        text-align: center;
+        padding: 1.5rem;
     }
 
-    .cuerpoPrincipal, .sobreMi {
-        scroll-snap-align: start;
-        height: 100vh; /* Altura fija solo en PC */
-        overflow: hidden; /* Evita scrolls internos raros */
-    }
-}
-
-/* Para móviles: Scroll normal y fluido */
-@media (max-width: 991px) {
-    html {
-        scroll-snap-type: none; /* Desactivamos el imán */
+    .cuadroBotones a {
+        white-space: nowrap;
+        flex: 1 1 auto;
+        text-align: center;
     }
 
-    .cuerpoPrincipal, .sobreMi {
-        height: auto;       /* El div crece según el contenido */
-        min-height: 100vh;  /* Pero al menos mide la pantalla */
-        padding-top: 100px;
-        padding-bottom: 50px;
+    .sobreMi {
+        padding-top: 80px;
+        height: auto;
         scroll-snap-align: none;
+    }
+
+    .cuadroPresentacion .d-flex {
+        flex-direction: column;
+        text-align: center;
+    }
+
+    .img-perfil {
+        height: 180px;
+        margin-bottom: 15px;
     }
 }
 
