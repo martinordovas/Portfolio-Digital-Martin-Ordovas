@@ -11,7 +11,7 @@ html, body{
 
 section, .cuerpoPrincipal, .sobreMi {
     scroll-snap-align: start;
-    height: 100vh;
+    height: 100dvh;
 }
 
 body{
@@ -75,7 +75,7 @@ body{
 }
 
 .cuerpoPrincipal{
-    min-height: 100vh;
+    min-height: 100dvh;
     z-index: -1;
 }
 
@@ -184,7 +184,7 @@ body{
     }
     section, .cuerpoPrincipal, .sobreMi {
         height: auto;
-        min-height: 100vh;
+        min-height: 100dvh;
         scroll-snap-align: none;
         padding-top: 100px;
         padding-bottom: 50px;
