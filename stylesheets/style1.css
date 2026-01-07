@@ -169,11 +169,19 @@ body{
     transform: scale(1.02);
 }
 
+@media (min-width: 992px) {
+    .cuerpoPrincipal, .sobreMi {
+        height: 100dvh;
+    }
+}
+
 @media (max-width: 991px) {
     html {
         scroll-snap-type: none;
     }
-
+    .cuerpoPrincipal, .sobreMi {
+        min-height: 100dvh; /* Se adapta perfectamente al espacio real disponible */
+    }
     section, .cuerpoPrincipal, .sobreMi {
         height: auto;
         min-height: 100vh;
