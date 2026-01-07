@@ -1,5 +1,11 @@
 html {
+    scroll-snap-type: y mandatory;
     scroll-behavior: smooth;
+}
+
+section, .cuerpoPrincipal, .sobreMi {
+    scroll-snap-align: start;
+    height: 100vh;
 }
 
 body{
@@ -12,16 +18,13 @@ body{
 }
 
 .navbarPaginaPrincipal {
-    transition: 
-        background-color 0.5s ease,
-        backdrop-filter 0.5s ease;
+    transition: 0.5s ease;
 }
 
 .navbarPaginaPrincipal.cambioNavbar {
-    transition: 
-        background-color 0.5s ease,
-        backdrop-filter 0.5s ease;
+    transition: 0.5s ease;
     backdrop-filter: blur(10px);
+    border-bottom: 1px solid rgba(255, 255, 255, 0.1);
 }
 
 .navbar-nav .nav-link {
@@ -156,6 +159,35 @@ body{
 .img-perfil:hover {
     filter: grayscale(0%);
     transform: scale(1.02);
+}
+
+@media (max-width: 768px) {
+    .cuadroPrincipal {
+        text-align: center;
+        padding: 1.5rem;
+    }
+
+    .cuadroBotones a {
+        white-space: nowrap;
+        flex: 1 1 auto;
+        text-align: center;
+    }
+
+    .sobreMi {
+        padding-top: 80px;
+        height: auto;
+        scroll-snap-align: none;
+    }
+
+    .cuadroPresentacion .d-flex {
+        flex-direction: column;
+        text-align: center;
+    }
+
+    .img-perfil {
+        height: 180px;
+        margin-bottom: 15px;
+    }
 }
 
 .ajusteImg{
