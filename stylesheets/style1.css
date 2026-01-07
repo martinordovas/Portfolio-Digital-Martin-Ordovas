@@ -141,11 +141,25 @@ body{
     text-shadow: 2px 2px 4px #402835;
 }
 
-.cuadroPresentacion img{
+.img-perfil{
     border-radius: 10px;
+    object-fit: cover;
     box-shadow: 0px 0px 10px rgb(0, 0, 0);
     border: 1px solid rgba(104, 104, 104, 0.1);
-    width: 40%;
+    height: 250px;
+}
+
+.img-perfil {
+    filter: grayscale(100%);
+    transition: 0.4s;
+}
+.img-perfil:hover {
+    filter: grayscale(0%);
+    transform: scale(1.02);
+}
+
+.ajusteImg{
+    height: 25px;
 }
 
 .cuadroPresentacion h5{
@@ -156,5 +170,28 @@ body{
 
 .tech-stack-container{
     padding: 1.5rem;
-    background-color: #000000;
+    background-color: #000000cb;
+    border-radius: 10px;
+    backdrop-filter: blur(10px);
+    box-shadow: 0px 0px 10px rgb(53, 53, 53);
+    transition: 0.4s;
+}
+
+.tech-stack-container:hover{
+    transform: scale(1.02);
+}
+
+.progress-mini {
+    width: 100%;
+    height: 4px;
+    background: rgba(255, 255, 255, 0.1);
+    margin-top: 5px;
+    border-radius: 2px;
+}
+
+.progress-mini .fill {
+    height: 100%;
+    background: rgb(211, 156, 124);
+    border-radius: 2px;
+    box-shadow: 0 0 8px rgba(211, 156, 124, 0.5);
 }
