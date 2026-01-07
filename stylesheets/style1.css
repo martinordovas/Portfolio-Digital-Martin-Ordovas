@@ -63,6 +63,7 @@ body{
     top: 0;
     left: 0;
     z-index: 0;
+    pointer-events: none;
     background-color: transparent;
 }
 
@@ -161,32 +162,32 @@ body{
     transform: scale(1.02);
 }
 
+@media (max-width: 991px) {
+    html {
+        scroll-snap-type: none; /* Desactivamos el "imán" que bloquea el dedo */
+    }
+
+    section, .cuerpoPrincipal, .sobreMi {
+        height: auto;           /* La altura ya no es fija, crece con el texto */
+        min-height: 100vh;      /* Pero al menos mide una pantalla completa */
+        scroll-snap-align: none;
+        padding-top: 100px;     /* Espacio para que el Navbar no tape el título */
+        padding-bottom: 50px;
+    }
+}
+
 @media (max-width: 768px) {
-    .cuadroPrincipal {
-        text-align: center;
-        padding: 1.5rem;
+    .cuadroBotones {
+        justify-content: center !important; /* Centrados en móvil */
+        flex-direction: column;            /* Uno debajo de otro */
+        align-items: center;
+        gap: 15px !important;
     }
 
     .cuadroBotones a {
-        white-space: nowrap;
-        flex: 1 1 auto;
-        text-align: center;
-    }
-
-    .sobreMi {
-        padding-top: 80px;
-        height: auto;
-        scroll-snap-align: none;
-    }
-
-    .cuadroPresentacion .d-flex {
-        flex-direction: column;
-        text-align: center;
-    }
-
-    .img-perfil {
-        height: 180px;
-        margin-bottom: 15px;
+        width: 100%;            /* Botones anchos para que sean fáciles de pulsar */
+        max-width: 280px;
+        margin: 0 !important;
     }
 }
 
