@@ -33,11 +33,11 @@ body{
 }
 
 .navbarPaginaPrincipal {
-    transition: 0.5s ease;
+    transition: all 0.5s ease;
 }
 
 .navbarPaginaPrincipal.cambioNavbar {
-    transition: 0.5s ease;
+    transition: all 0.5s ease;
     backdrop-filter: blur(10px);
     border-bottom: 1px solid rgba(255, 255, 255, 0.1);
 }
@@ -172,9 +172,15 @@ body{
     filter: grayscale(100%);
     transition: 0.4s;
 }
+
 .img-perfil:hover {
     filter: grayscale(0%);
     transform: scale(1.02);
+}
+
+.pincelada-info small{
+    color: rgb(211, 156, 124);
+    text-shadow: 2px 2px 4px #544e47;
 }
 
 @media (min-width: 992px) {
@@ -277,14 +283,14 @@ body{
 .dot {
     width: 10px;
     height: 10px;
-    background-color: rgba(255, 255, 255, 0.3);
-    border: 1px solid rgb(211, 156, 124);
+    background-color: rgba(255, 255, 255, 0);
+    border: 1px solid rgb(255, 255, 255);
     border-radius: 50%;
     transition: all 0.3s ease;
 }
 
 .dot:hover {
-    background-color: rgb(211, 156, 124);
+    background-color: rgb(225, 146, 171);
     transform: scale(1.5);
 }
 
