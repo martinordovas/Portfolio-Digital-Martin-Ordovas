@@ -9,7 +9,7 @@ html, body{
     padding: 0;
 }
 
-section, .cuerpoPrincipal, .sobreMi {
+section, .cuerpoPrincipal, .sobreMi , .proyectos{
     scroll-snap-align: start;
     height: 100dvh;
 }

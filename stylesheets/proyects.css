@@ -1,0 +1,170 @@
+.proyectos{
+    min-height: 100dvh;
+    padding-top: 7%;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+
+.cuadroProyectos{
+    padding: 2rem;
+    color: rgb(237, 230, 200);
+    background: rgba(0, 0, 0, 0.05);
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.4);
+    backdrop-filter: blur(10px);
+    border: 1px solid rgba(104, 104, 104, 0.1);
+    z-index: 2;
+}
+
+.cuadroProyectos h2{
+    color: rgb(225, 146, 171);
+    text-shadow: 2px 2px 4px #402835;
+}
+
+.tab-pane ul {
+    list-style: none;
+    padding-left: 0;
+}
+
+.tab-pane ul li::before {
+    content: "> ";
+    color: rgb(211, 156, 124);
+}
+
+.tab-content > .tab-pane {
+    position: absolute;
+    width: 100%;
+    visibility: hidden;
+    opacity: 0;
+    height: 0;
+    overflow: hidden;
+}
+
+.tab-content > .active {
+    position: relative;
+    visibility: visible;
+    opacity: 1;
+    height: auto;
+    transition: opacity 0.3s ease-in-out;
+}
+
+.ajusteImagen {
+    max-height: 300px;
+    width: auto;
+    object-fit: contain;
+    border-radius: 10px;
+    display: block;
+    margin: 10px auto;
+    object-fit: cover;
+    box-shadow: 0px 0px 10px rgb(0, 0, 0);
+    border: 1px solid rgba(104, 104, 104, 0.1);
+}
+
+.tab-content {
+    width: 100%;
+    overflow: visible;
+}
+
+@media (max-width: 768px) {
+    .cuadroProyectos {
+        padding: 1.5rem;
+    }
+
+    .nav-pills {
+        flex-direction: column; 
+        gap: 10px;
+    }
+    
+    .nav-pills .nav-link {
+        width: 100%;
+        text-align: center;
+        border: 1px solid rgba(255,255,255,0.1);
+    }
+
+    .ajusteImagen {
+        max-height: 200px; 
+        margin-bottom: 20px;
+    }
+    
+    .tab-pane {
+        text-align: center;
+    }
+    
+    .tab-pane ul {
+        text-align: left;
+        display: inline-block;
+    }
+}
+
+.cuadroProyectosInterior{
+    margin-right: 20px;
+    padding: 1rem;
+    background-color: #000000a4;
+    border-radius: 10px;
+    backdrop-filter: blur(10px);
+    box-shadow: 0px 0px 10px rgb(53, 53, 53);
+}
+
+.cuadroProyectos button{
+    text-decoration: none;
+    color: rgb(237, 230, 200);
+    text-shadow: 2px 2px 4px #000000;
+    border-radius: 10px;
+    border: 1px solid rgba(255, 255, 255, 0.5);
+    backdrop-filter: blur(10px);
+    background-color: rgba(99, 99, 99, 0.3);
+    transition: 
+        box-shadow 0.5s ease, 
+        color 0.5s ease, 
+        background-color 0.5s ease,
+        transform 0.5s ease;
+}
+
+.cuadroProyectos button:hover{
+    color: rgb(225, 146, 171);
+    background-color: rgba(0, 0, 0, 0.3);
+    box-shadow: 0px 0px 10px rgb(225, 146, 171);
+    transform: scale(1.02);
+    transition: 
+        box-shadow 0.5s ease, 
+        color 0.5s ease, 
+        background-color 0.5s ease,
+        transform 0.5s ease;
+}
+.cuadroProyectos .active button{
+    color: rgb(225, 146, 171);
+    background-color: rgba(0, 0, 0, 0.3);
+    box-shadow: 0px 0px 10px rgb(225, 146, 171);
+    transform: scale(1.02);
+    transition: 
+        box-shadow 0.5s ease, 
+        color 0.5s ease, 
+        background-color 0.5s ease,
+        transform 0.5s ease;
+}
+/*
+.cuadroBotones a{
+    text-decoration: none;
+    color: rgb(237, 230, 200);
+    text-shadow: 2px 2px 4px #000000;
+    padding: 5px 5px 5px 5px;
+    border-radius: 10px;
+    border: 1px solid rgba(255, 255, 255, 0.5);
+    backdrop-filter: blur(10px);
+    background-color: rgba(99, 99, 99, 0.3);
+    transition: 
+        box-shadow 0.5s ease, 
+        color 0.5s ease, 
+        background-color 0.5s ease;
+}
+
+.cuadroBotones a:hover{
+    color: rgb(225, 146, 171);
+    background-color: rgba(0, 0, 0, 0.3);
+    box-shadow: 0px 0px 10px rgb(225, 146, 171);
+    transition: 
+        box-shadow 0.5s ease, 
+        color 0.5s ease, 
+        background-color 0.5s ease;
+}
+*/
