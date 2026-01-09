@@ -38,6 +38,7 @@
     opacity: 0;
     height: 0;
     overflow: hidden;
+    display: none;
 }
 
 .tab-content > .active {
@@ -46,6 +47,8 @@
     opacity: 1;
     height: auto;
     transition: opacity 0.3s ease-in-out;
+    display: block;
+    transition: none;
 }
 
 .ajusteImagen {
@@ -143,4 +146,30 @@
         color 0.5s ease, 
         background-color 0.5s ease,
         transform 0.5s ease;
+}
+
+@keyframes entradaProyecto {
+    from {
+        opacity: 0;
+        filter: blur(5px);
+    }
+    to {
+        opacity: 1;
+        filter: blur(0);
+    }
+}
+
+.tab-pane.active .cuadroProyectosInterior {
+    animation: entradaProyecto 0.6s ease-out forwards;
+}
+
+.tab-pane.active .ajusteImagen {
+    animation: entradaProyecto 0.8s ease-out forwards;
+    animation-delay: 0.1s; /* Aparece un poquito después que el texto */
+    opacity: 0; /* Estado inicial antes de la animación */
+}
+
+.textoInfo{
+    color: rgb(211, 156, 124);
+    text-shadow: 2px 2px 4px #544e47;
 }

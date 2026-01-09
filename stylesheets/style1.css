@@ -9,7 +9,7 @@ html, body{
     padding: 0;
 }
 
-section, .cuerpoPrincipal, .sobreMi , .proyectos{
+section, .cuerpoPrincipal, .sobreMi, .proyectos, .contactame{
     scroll-snap-align: start;
     height: 100dvh;
 }
@@ -30,6 +30,27 @@ section, .cuerpoPrincipal, .sobreMi , .proyectos{
 body{
     font-family: 'JetBrains Mono', monospace;
     overscroll-behavior-y: none;
+}
+
+.navbar-toggler {
+    border: none !important;
+    background-color: transparent !important;
+    padding: 0 !important;
+}
+
+.navbar-toggler:focus,
+.navbar-toggler:active,
+.navbar-toggler-icon:focus {
+    outline: none !important;
+    box-shadow: none !important;
+}
+
+.navbar-collapse {
+    transition: all 0.4s ease-in-out;
+}
+
+.navbar-toggler:hover .navbar-toggler-icon {
+    filter: brightness(1.2);
 }
 
 .navbarPaginaPrincipal {
