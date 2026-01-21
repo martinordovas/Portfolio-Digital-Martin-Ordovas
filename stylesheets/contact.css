@@ -1,13 +1,10 @@
-.contactame {
-    /* Eliminamos el padding-top del 10% que lo desplaza hacia abajo */
+.contactame{
     min-height: 100dvh;
-    padding-top: 80px; 
-    padding-left: 0;
-    padding-right: 0;
+    padding-left: 5%;
+    padding-right: 5%;
 }
 
 .cuadroContacto{
-    width: 100%;
     padding: 2rem;
     color: rgb(237, 230, 200);
     background: rgba(0, 0, 0, 0.05);

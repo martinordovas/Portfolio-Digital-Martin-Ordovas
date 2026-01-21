@@ -224,12 +224,10 @@ body{
         min-height: 100dvh;
     }
     section, .cuerpoPrincipal, .sobreMi, .proyectos, .contactame {
-        justify-content: flex-start;
-        padding-top: 100px;
-        padding-bottom: 60px;
-        /* Añadimos esto para que los cuadros no toquen los bordes */
-        padding-left: 15px; 
-        padding-right: 15px;
+        height: auto;
+        min-height: 100dvh;
+        padding-top: 80px;  /* Espacio para que el navbar no tape el título */
+        padding-bottom: 40px;
     }
 }
 
