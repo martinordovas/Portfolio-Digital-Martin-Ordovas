@@ -224,9 +224,12 @@ body{
         min-height: 100dvh;
     }
     section, .cuerpoPrincipal, .sobreMi, .proyectos, .contactame {
-        justify-content: flex-start; /* En móvil es mejor que empiece arriba para evitar cortes */
-        padding-top: 100px; 
+        justify-content: flex-start;
+        padding-top: 100px;
         padding-bottom: 60px;
+        /* Añadimos esto para que los cuadros no toquen los bordes */
+        padding-left: 15px; 
+        padding-right: 15px;
     }
 }
 

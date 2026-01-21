@@ -1,10 +1,13 @@
 .proyectos {
     /* Eliminamos los paddings porcentuales que descuadran el centro */
+    min-height: 100dvh;
     padding-left: 0; 
     padding-right: 0;
 }
 
 .cuadroProyectos{
+    width: 100%; 
+    max-width: 1200px; /* O el ancho que prefieras para PC */
     padding: 2rem;
     color: rgb(237, 230, 200);
     background: rgba(0, 0, 0, 0.05);
