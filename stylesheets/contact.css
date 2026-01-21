@@ -1,8 +1,8 @@
-.contactame{
-    min-height: 100dvh;
-    padding-top: 10%;
-    padding-left: 5%;
-    padding-right: 5%;
+.contactame {
+    /* Eliminamos el padding-top del 10% que lo desplaza hacia abajo */
+    padding-top: 80px; 
+    padding-left: 0;
+    padding-right: 0;
 }
 
 .cuadroContacto{
@@ -30,6 +30,16 @@
     }
 }
 
+.cuadroProyectos, .cuadroContacto {
+    padding: 1.5rem; /* Menos padding en móvil para ganar espacio */
+}
+
+@media (min-width: 992px) {
+    .cuadroProyectos, .cuadroContacto {
+        padding: 3rem; /* Más aire en pantallas grandes */
+    }
+}
+
 .cuadroContactoInterior{
     margin: 1rem;
     padding: 1rem;
@@ -46,7 +56,4 @@
     border-radius: 10px;
     backdrop-filter: blur(10px);
     box-shadow: 0px 0px 10px rgb(53, 53, 53);
-}
-.item-contacto a{
-
 }

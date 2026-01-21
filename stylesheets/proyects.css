@@ -1,8 +1,7 @@
-.proyectos{
-    min-height: 100dvh;
-    padding-top: 7%;
-    padding-left: 5%;
-    padding-right: 5%;
+.proyectos {
+    /* Eliminamos los paddings porcentuales que descuadran el centro */
+    padding-left: 0; 
+    padding-right: 0;
 }
 
 .cuadroProyectos{
@@ -14,6 +13,16 @@
     backdrop-filter: blur(10px);
     border: 1px solid rgba(104, 104, 104, 0.1);
     z-index: 2;
+}
+
+.cuadroProyectos, .cuadroContacto {
+    padding: 1.5rem; /* Menos padding en móvil para ganar espacio */
+}
+
+@media (min-width: 992px) {
+    .cuadroProyectos, .cuadroContacto {
+        padding: 3rem; /* Más aire en pantallas grandes */
+    }
 }
 
 .cuadroProyectos h2{

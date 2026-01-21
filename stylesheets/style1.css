@@ -9,9 +9,15 @@ html, body{
     padding: 0;
 }
 
-section, .cuerpoPrincipal, .sobreMi, .proyectos, .contactame{
+section, .cuerpoPrincipal, .sobreMi, .proyectos, .contactame {
     scroll-snap-align: start;
-    height: 100dvh;
+    min-height: 100dvh;
+    display: flex; /* */
+    flex-direction: column; /* */
+    justify-content: center; /* Esto centra el cuadro verticalmente */
+    align-items: center; /* Esto asegura el centrado horizontal */
+    padding-top: 80px; /* Espacio para el Navbar */
+    padding-bottom: 80px; /* Espacio de seguridad abajo para que no toque el borde */
 }
 
 .fondo{
@@ -217,12 +223,10 @@ body{
     .cuerpoPrincipal, .sobreMi {
         min-height: 100dvh;
     }
-    section, .cuerpoPrincipal, .sobreMi {
-        height: auto;
-        min-height: 100dvh;
-        scroll-snap-align: none;
-        padding-top: 100px;
-        padding-bottom: 50px;
+    section, .cuerpoPrincipal, .sobreMi, .proyectos, .contactame {
+        justify-content: flex-start; /* En móvil es mejor que empiece arriba para evitar cortes */
+        padding-top: 100px; 
+        padding-bottom: 60px;
     }
 }
 
