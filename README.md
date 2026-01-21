@@ -2,7 +2,7 @@
  Este es el repositorio del portfolio web de Martín Ordovás Gracia
 # 🌌 Digital Portfolio - Martin Ordovas
 
-[![Deploy with Vercel](https://img.shields.io/badge/Deploy-Vercel-black?style=for-the-badge&logo=vercel)](https://tu-url-de-vercel.vercel.app/)
+[![Deploy with Vercel](https://img.shields.io/badge/Deploy-Vercel-black?style=for-the-badge&logo=vercel)](https://mordovasgracia.vercel.app/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
 
 > Personal portfolio developed with a focus on **Glassmorphism** and **Responsive Design**.
